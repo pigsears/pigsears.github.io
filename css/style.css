@@ -14,7 +14,7 @@ body {
     -webkit-transition: .3s all ease;
     -o-transition: .3s all ease;
     transition: .3s all ease;
-    opacity: 0;
+    opacity: 80;
     visibility: hidden;
     z-index: 1; }
   body.offcanvas-menu:before {
@@ -129,7 +129,7 @@ a {
           font-family: 'icomoon'; }
       .site-navbar .site-navigation .site-menu .has-children .dropdown {
         visibility: hidden;
-        opacity: 0;
+        opacity: 80;
         top: 100%;
         position: absolute;
         text-align: left;
