@@ -36,10 +36,6 @@ a {
   a, a:hover {
     text-decoration: none !important; }
 
-.hero {
-  height: 100vh;
-  width: 100%;
-  background: #eb4d55; }
 
 .site-navbar {
   margin-bottom: 0px;
@@ -62,7 +58,7 @@ a {
     font-size: 1rem; }
     .site-navbar .site-logo a {
       text-transform: uppercase;
-      color: #fff;
+      color: #373636;
       font-family: "Open Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"; }
     @media (max-width: 991.98px) {
       .site-navbar .site-logo {
@@ -103,15 +99,15 @@ a {
           -webkit-transition: .3s transform ease;
           -o-transition: .3s transform ease;
           transition: .3s transform ease;
-          background: #fff; }
+          background: #373636; }
         .site-navbar .site-navigation .site-menu > li > a:hover {
-          color: #fff !important; }
+          color: #373636 !important; }
           .site-navbar .site-navigation .site-menu > li > a:hover:before {
             -webkit-transform: scale(1);
             -ms-transform: scale(1);
             transform: scale(1); }
       .site-navbar .site-navigation .site-menu > li.active > a {
-        color: #fff !important; }
+        color: #373636 !important; }
         .site-navbar .site-navigation .site-menu > li.active > a:before {
           -webkit-transform: scale(1);
           -ms-transform: scale(1);
@@ -143,7 +139,7 @@ a {
         padding: 0px 0;
         margin-top: 20px;
         margin-left: 0px;
-        background: #fff;
+        background: #373636;
         -webkit-transition: 0.2s 0s;
         -o-transition: 0.2s 0s;
         transition: 0.2s 0s; }
@@ -161,7 +157,7 @@ a {
             pointer-events: none; }
           .site-navbar .site-navigation .site-menu .has-children .dropdown.arrow-top:before {
             border-color: rgba(136, 183, 213, 0);
-            border-bottom-color: #fff;
+            border-bottom-color: #373636;
             border-width: 10px;
             margin-left: -10px; }
         .site-navbar .site-navigation .site-menu .has-children .dropdown a {
@@ -359,13 +355,13 @@ a {
     -o-transition: .3s all ease;
     transition: .3s all ease; }
   .sticky-wrapper .site-navbar {
-    background: #fff; }
+    background: #373636; }
     .sticky-wrapper .site-navbar ul li a {
       color: rgba(255, 255, 255, 0.7) !important; }
       .sticky-wrapper .site-navbar ul li a.active {
-        color: #fff !important; }
+        color: #373636 !important; }
   .sticky-wrapper.is-sticky .site-navbar {
-    background: #fff;
+    background: #373636;
     -webkit-box-shadow: 4px 0 20px -5px rgba(0, 0, 0, 0.2);
     box-shadow: 4px 0 20px -5px rgba(0, 0, 0, 0.2); }
     .sticky-wrapper.is-sticky .site-navbar .site-logo a {
