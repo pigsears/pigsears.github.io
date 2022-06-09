@@ -146,7 +146,6 @@ a {
         .site-navbar .site-navigation .site-menu .has-children .dropdown.arrow-top {
           position: absolute; }
           .site-navbar .site-navigation .site-menu .has-children .dropdown.arrow-top:before {
-            display: none;
             bottom: 100%;
             left: 20%;
             border: solid transparent;
